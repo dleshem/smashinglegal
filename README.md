@@ -14,10 +14,10 @@
 <h2>מחזורים</h2>
 
 <p>
-  <a href="cohorts/2.md">מחזור 2</a> - בקרוב
+  <a href="cohorts/2">מחזור 2</a> - בקרוב
 </p>
 <p>
-  <a href="cohorts/1.md">מחזור 1</a>
+  <a href="cohorts/1">מחזור 1</a>
 </p>
   
 <div>
