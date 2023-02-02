@@ -16,19 +16,10 @@
 </p>
 
 <h2>המלצות</h2>
-<div>
-<a href="https://www.linkedin.com/in/uriyacovy/" style="vertical-align: middle;"><img src="images/uri-yacovy.png" alt="Uri Yavovy"></a>
-<span>כחגדיכחלדגיכ לחדגיחכ כחדי דגיכ יכגלדח כילחגד כלדג יכגד</span>
-</div>
 
 <div style="display: flex; align-items: center;">
-    <img src="images/uri-yacovy.png">
-    <span style="">Works. kfd jkdfhgjkdf hgkjdf hkjdf kjdfjkg dflkg dflkg dfjk gdfjk gdfjk dfjkgdfjk dfkj gdfj gjdfl gdfkj gjdfk dfk hglkdjf gjkdf hgjlkdf hdkfjl hldfkj gdfkl hldfk gjdfkl gdfk gjkdf gdf</span>
-</div>
-
-<div>
-  <img style="vertical-align:middle" src="images/uri-yacovy.png"">
-  <span style="vertical-align:middle">Works.</span>
+  <a href="https://www.linkedin.com/in/uriyacovy/"><img src="images/uri-yacovy.png" alt="Uri Yavovy"></a>
+  <span>kfd jkdfhgjkdf hgkjdf hkjdf kjdfjkg dflkg dflkg dfjk gdfjk gdfjk dfjkgdfjk dfkj gdfj gjdfl gdfkj gjdfk dfk hglkdjf gjkdf hgjlkdf hdkfjl hldfkj gdfkl hldfk gjdfkl gdfk gjkdf gdf</span>
 </div>
 
 
