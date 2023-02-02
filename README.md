@@ -24,6 +24,13 @@
   <span><i>מפגש של מוחות מבריקים עם מרצים מעולים. המפגשים ממוקדים בפרקטיקה של סוגיות שונות בחיי החברה (מ-ideation עד האקזיט), ונותנים כלים ו-best practices כדי לאפשר ליזמים להתמקד ביצירת הערך של המוצר שלהם. מומלץ ליזמים, מנהלים בכירים, ולכל מי שרוצה להבין את העולם המשפטי שמלווה בניית חברות חזקות.</i> - <a href="https://www.linkedin.com/in/uriyacovy/">אורי יעקבי</a></span>
 </div>
 
+<div style="display: flex; align-items: center;">
+  <a href="https://www.linkedin.com/in/lior-hammer-42638411/">
+    <img src="images/lior-hammer.png" height="100" width="100" alt="Lior Hammer" style="max-width: none; margin-left: 20px; ">
+  </a>
+  <span><i>חוויה מעולה, בין השאר הודות לבחירת התכנים, למרצים שחיים את הנושא על בסיס יומיומי, וליזמים מעולים שמנצלים את המפגשים להחלפת רשמים ורעיונות. ממליץ מאוד ליזמים בתחילת הדרך כדי להבין את ה-unknown unknowns, ולהימנע מטעויות קריטיות.</i> - <a href="https://www.linkedin.com/in/lior-hammer-42638411/">ליאור המר</a></span>
+</div>
+
 
 <h2>לוגיסטיקה</h2>
 <p>
