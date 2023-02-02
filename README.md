@@ -31,6 +31,13 @@
   <span><i>חוויה מעולה, בין השאר הודות לבחירת התכנים, למרצים שחיים את הנושא על בסיס יומיומי, וליזמים מעולים שמנצלים את המפגשים להחלפת רשמים ורעיונות. ממליץ מאוד ליזמים בתחילת הדרך כדי להבין את ה-unknown unknowns, ולהימנע מטעויות קריטיות.</i> - <a href="https://www.linkedin.com/in/lior-hammer-42638411/">ליאור המר</a></span>
 </div>
 
+<div style="display: flex; align-items: center; margin-top:20px;">
+  <a href="https://www.linkedin.com/in/ariebrosztein/">
+    <img src="images/arie-brosztein.png" height="100" width="100" alt="Arie Brosztein" style="max-width: none; margin-left: 20px; ">
+  </a>
+  <span><i>מאוד נהנתי, הקורס לימד אותי הרבה דברים שלדעתי היה לי קשה מאוד להבין לבד. המרצים ברמה מאוד גבוהה וניכר שהם מכירים את הנושאים בצורה מעמיקה מאוד. ממליץ לכל מי שמעוניין להקים חברה בזמן הקרוב, זה באמת מידע שיכול לחסוך הרבה כסף וכאב ראש בעתיד ובלי קשר הנושאים מאוד מעניינים.</i> - <a href="https://www.linkedin.com/in/ariebrosztein/">אריה</a></span>
+</div>
+  
 
 <h2>לוגיסטיקה</h2>
 <p>
