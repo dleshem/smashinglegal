@@ -12,7 +12,8 @@
 </p>
   
 <p>
-ההשתתפות בסדרה ללא עלות, ובהרשמה מוקדמת בלבד.
+ההשתתפות בסדרה ללא עלות, ובהרשמה מוקדמת בלבד - שימו לב,
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScT3Ums46Dsd1Y3XA_X4n3kpLIyM3z93LJUrKlWZ3qm4vPrUw/viewform">ההרשמה למחזור 2 בעיצומה</a>!
 </p>
 
 <h2>משתתפים מספרים</h2>
