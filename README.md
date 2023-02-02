@@ -21,7 +21,7 @@
   <a href="https://www.linkedin.com/in/uriyacovy/">
     <img src="images/uri-yacovy.png" height="100" width="100" alt="Uri Yavovy" style="max-width: none;">
   </a>
-  <span>kfd jkdfhgjkdf hgkjdf hkjdf kjdfjkg dflkg dflkg dfjk gdfjk gdfjk dfjkgdfjk dfkj gdfj gjdfl gdfkj gjdfk dfk hglkdjf gjkdf hgjlkdf hdkfjl hldfkj gdfkl hldfk gjdfkl gdfk gjkdf gdf</span>
+  <span><i>מפגש של מוחות מבריקים עם מרצים מעולים במטרה לייצר חברות שלא עושות טעויות טיפשיות. המפגשים ממוקדים בפרקטיקה של סוגיות שונות בחיי החברה (מ-ideation עד האקזיט), ונותנים כלים ו-best practices כדי לאפשר ליזמים להתמקד ביצירת הערך של המוצר שלהם. מומלץ ליזמים, מנהלים בכירים, ולכל מי שרוצה להבין את העולם המשפטי שמלווה בניית חברות חזקות.</i></span> - אורי יעקבי
 </div>
 
 
