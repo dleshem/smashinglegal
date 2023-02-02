@@ -15,7 +15,7 @@
 ההשתתפות בסדרה ללא עלות, ובהרשמה מוקדמת בלבד.
 </p>
 
-<h2>המלצות נבחרות</h2>
+<h2>משתתפים מספרים</h2>
 
 <div style="display: flex; align-items: center;">
   <a href="https://www.linkedin.com/in/uriyacovy/">
