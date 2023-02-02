@@ -18,7 +18,7 @@
 <h2>המלצות</h2>
 
 <div style="display: flex; align-items: center;">
-  <a href="https://www.linkedin.com/in/uriyacovy/"><img src="images/uri-yacovy.png" alt="Uri Yavovy"></a>
+  <a href="https://www.linkedin.com/in/uriyacovy/"><img src="images/uri-yacovy.png" height="100" width="100" alt="Uri Yavovy"></a>
   <span>kfd jkdfhgjkdf hgkjdf hkjdf kjdfjkg dflkg dflkg dfjk gdfjk gdfjk dfjkgdfjk dfkj gdfj gjdfl gdfkj gjdfk dfk hglkdjf gjkdf hgjlkdf hdkfjl hldfkj gdfkl hldfk gjdfkl gdfk gjkdf gdf</span>
 </div>
 
