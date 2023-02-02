@@ -19,9 +19,9 @@
 
 <div style="display: flex; align-items: center;">
   <a href="https://www.linkedin.com/in/uriyacovy/">
-    <img src="images/uri-yacovy.png" height="100" width="100" alt="Uri Yavovy" style="max-width: none;">
+    <img src="images/uri-yacovy.png" height="100" width="100" alt="Uri Yavovy" style="max-width: none; margin-left: 20px; ">
   </a>
-  <span><i>מפגש של מוחות מבריקים עם מרצים מעולים. המפגשים ממוקדים בפרקטיקה של סוגיות שונות בחיי החברה (מ-ideation עד האקזיט), ונותנים כלים ו-best practices כדי לאפשר ליזמים להתמקד ביצירת הערך של המוצר שלהם. מומלץ ליזמים, מנהלים בכירים, ולכל מי שרוצה להבין את העולם המשפטי שמלווה בניית חברות חזקות.</i> - אורי יעקבי</span>
+  <span><i>מפגש של מוחות מבריקים עם מרצים מעולים. המפגשים ממוקדים בפרקטיקה של סוגיות שונות בחיי החברה (מ-ideation עד האקזיט), ונותנים כלים ו-best practices כדי לאפשר ליזמים להתמקד ביצירת הערך של המוצר שלהם. מומלץ ליזמים, מנהלים בכירים, ולכל מי שרוצה להבין את העולם המשפטי שמלווה בניית חברות חזקות.</i> - <a href="https://www.linkedin.com/in/uriyacovy/">אורי יעקבי</a></span>
 </div>
 
 
