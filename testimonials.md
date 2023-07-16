@@ -36,7 +36,7 @@
         <li><a href="https://twitter.com/kfirgollan/status/1679192250163527680">כפיר גולן</a></li>
         <li><a href="https://www.linkedin.com/posts/dalya-gar_%D7%9C%D7%A4%D7%A0%D7%99-%D7%9B%D7%A9%D7%A0%D7%94-%D7%94%D7%99%D7%99%D7%AA%D7%99-%D7%91%D7%90%D7%99%D7%96%D7%94-%D7%90%D7%A8%D7%95%D7%A2-%D7%99%D7%96%D7%9E%D7%95%D7%AA-%D7%95%D7%90%D7%97%D7%93-%D7%94%D7%9E%D7%A8%D7%A6%D7%99%D7%9D-activity-7085149679725760513-SWZ4/">דליה גרצמן</a></li>
         <li><a href="https://www.linkedin.com/posts/maor-sellek-96a15129_entrepreneurship-learning-growth-activity-7085250905855467520-SGl1/">מאור סלק</a></li>
-        <li><a href="https://www.linkedin.com/posts/avishayx_smashinglegal-startuplife-legalessentials-activity-7085313289886269440-SA3c/">אבישי מטייב</a></li>
+        <li><a href="https://www.linkedin.com/posts/avishayx_smashinglegal-startuplife-legalessentials-activity-7085313289886269440-SA3c/">אבישי מתייב</a></li>
         <li><a href="https://www.linkedin.com/posts/rotem-rousso-897444213_smashinglegal-activity-7085565062605660160--CKT/">רותם רוסו</a></li>
         <li><a href="https://www.linkedin.com/posts/dror-ivry-b335a4173_entrepreneurship-learning-growth-activity-7085567422698549249-bBHc/">דרור עברי</a></li>
         <li><a href="https://www.linkedin.com/posts/danamordechai_learning-growth-legal-activity-7085984050418479104-nKjB/">דנה מרדכי גנצר</a></li>
