@@ -46,6 +46,7 @@
   <ul>
     <li><a href="cohorts/1">מחזור 1</a></li>
     <li><a href="cohorts/2">מחזור 2</a></li>
+    <li><a href="cohorts/3">מחזור 3 - בקרוב!</a></li>
   </ul>
 </p>
   
