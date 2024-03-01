@@ -13,7 +13,7 @@
   
 <p>
   ההשתתפות בסדרה ללא עלות, ובהרשמה מוקדמת בלבד - שימו לב,
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSc43_BJwNwJRekZrR-Xlagaw_uqhdSFz6zr0GA7wiuNHM-hdA/viewform">ההרשמה למחזור 3 בעיצומה</a>!
+<b>ההרשמה למחזור 3 הסתיימה</b>!
 </p>
 
 <h2>משתתפים מספרים</h2>
