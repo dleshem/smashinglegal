@@ -42,6 +42,7 @@
         <li><a href="https://www.linkedin.com/posts/danamordechai_learning-growth-legal-activity-7085984050418479104-nKjB/">דנה מרדכי גנצר</a></li>
         <li><a href="https://www.linkedin.com/posts/gal-hever_smashinglegal-ebn-activity-7086040980004478976-Wsgv/">גל חבר</a></li>
         <li><a href="https://www.linkedin.com/posts/dorin-shani-b4324588_smashinglegal-activity-7094600183153401856-jctw">דורין שני</a></li>
+        <li><a href="https://www.linkedin.com/posts/elad-uzan_entrepreneurs-smashing-legal-activity-7218875777436573696-gqMc">אלעד אוזן</a></li>
       </ul>
     </p>
   </div>
