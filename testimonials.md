@@ -45,6 +45,7 @@
         <li><a href="https://www.linkedin.com/posts/elad-uzan_entrepreneurs-smashing-legal-activity-7218875777436573696-gqMc">אלעד אוזן</a></li>
         <li><a href="https://www.linkedin.com/posts/hilashmuel_entrepreneurs-smashinglegal-startup-activity-7218991416062930944-X6Gb">הילה שמואל</a></li>
         <li><a href="https://www.linkedin.com/posts/dorit-cohen-carmon_%D7%9B%D7%90%D7%9C%D7%94-%D7%90%D7%A0%D7%97%D7%A0%D7%95-%D7%A6%D7%A8%D7%99%D7%9B%D7%99%D7%9D-%3F%3F%3F%3F-%3F%3F%3F%3F-%3F%3F%3F%3F-activity-7219320390739738625-0ozP/">דורית כהן כרמון</a></li>
+        <li><a href="https://www.linkedin.com/posts/activity-7218890130927845378-OT5T">דניאל אוחיון</a></li>
       </ul>
     </p>
   </div>
